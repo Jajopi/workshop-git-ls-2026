@@ -19,4 +19,4 @@
 1. Zitite, kto napísal ktoré riadky súboru `README.md` v masteri. Zistite to lokálne aj na Githube. 
 
 Zoznam mien:
-- 
+- Janči
