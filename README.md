@@ -21,4 +21,6 @@
 Zoznam mien:
 - Janči
 - Filip
+- Znova Janči
 - Gregor
+- Tretíkrát Janči
