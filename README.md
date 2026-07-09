@@ -23,3 +23,4 @@ Zoznam mien:
 - Filip
 - Znova Janči
 - Tretíkrát Janči
+- Martin
