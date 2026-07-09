@@ -20,3 +20,4 @@
 
 Zoznam mien:
 - Janči
+- Znova Janči
